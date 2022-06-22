@@ -8,5 +8,3 @@ AWS_BUCKET=s3-comuni
 AWS_URL=https://s3-comuni.s3-ap-southeast-1.amazonaws.com
 FILESYSTEM_DRIVER=s3
 
-
-heYyYRtOZOTcpgUgWPU5iSVwYVMPqsX3PxJwJq
